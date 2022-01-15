@@ -1,0 +1,72 @@
+<div class="card-body WOW fadeInDown mt-0"  id="female" style="display:block; text-align:right;">
+                <h4 class="head">نتائج الفحوصات </h4>
+               
+            <div class="row">
+                <div class="col-2">
+                    <h5 class="mb-4 ">الاُذن اليمنى :</h5><br>
+                    <h5 class="mb-4 ">الاُذن اليسرى :</h5><br> 
+                </div>
+                    <div class="col-3">
+                <h5 class="mb-3">ABR</h5>
+           <select class="form-select" aria-label="Default select example" id="ABRL" name="ABRL">
+                          <option value="not">Open this select menu</option>
+                          <option value="Moderate Hearing loss"> Moderate Hearing loss</option>
+                          <option value="Moderate to sever hearing loss">Moderate to sever hearing loss</option>
+                          <option value="Mild hearing loss">Mild hearing loss</option>
+                          <option value="Sever hearing loss">Sever hearing loss</option>
+                          <option value="Profoud hearing loss">Profoud hearing loss</option>
+                        </select> <br>
+                        <select class="form-select" aria-label="Default select example" id="ABRL" name="ABRL">
+                          <option value="not">Open this select menu</option>
+                          <option value="Moderate Hearing loss"> Moderate Hearing loss</option>
+                          <option value="Moderate to sever hearing loss">Moderate to sever hearing loss</option>
+                          <option value="Mild hearing loss">Mild hearing loss</option>
+                          <option value="Sever hearing loss">Sever hearing loss</option>
+                          <option value="Profoud hearing loss">Profoud hearing loss</option>
+                        </select>
+                        
+                        
+                </div>
+                  <div class="col-3">
+                <h5 class="mb-3">Tympanometry</h5><br>
+              <select class="form-select" aria-label="Default select example" id="TympanometryL" name="TympanometryL">
+                          <option value="not">Open this select menu</option>
+                          <option value="Type A">Type A</option>
+                          <option value="Type B">Type B</option>
+                          <option value="Type C">Type C</option>
+                          <option value="N/A">N/A</option>
+                        </select>  <br>
+                          <select class="form-select" aria-label="Default select example" id="TympanometryL" name="TympanometryL">
+                          <option value="not">Open this select menu</option>
+                          <option value="Type A">Type A</option>
+                          <option value="Type B">Type B</option>
+                          <option value="Type C">Type C</option>
+                          <option value="N/A">N/A</option>
+                        </select>  
+         
+                </div>
+                  <div class="col-2">
+                <h5 class="mb-3">OAE</h5><br>
+          <select class="form-select" aria-label="Default select example" id="OAEL" name="OAEL">
+                          <option value="not">Open this select menu</option>
+                          <option value="Pass">Pass</option>
+                          <option value="Failed">Failed</option>
+                          <option value="Partial pass">Partial pass</option>
+                        </select> <br>
+                        <select class="form-select" aria-label="Default select example" id="OAEL" name="OAEL">
+                          <option value="not">Open this select menu</option>
+                          <option value="Pass">Pass</option>
+                          <option value="Failed">Failed</option>
+                          <option value="Partial pass">Partial pass</option>
+                        </select> 
+                </div>
+                      
+                
+                
+                
+                
+                </div>
+            </div>
+            
+                    <hr>   
+            
